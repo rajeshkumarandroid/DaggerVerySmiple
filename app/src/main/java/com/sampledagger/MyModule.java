@@ -8,6 +8,8 @@ import dagger.Provides;
 /**
  * Created by Rajesh Kumar on 08-06-2018.
  */
+
+//A Module defines one or more injectable classes
 @Module
 public class MyModule {
 
